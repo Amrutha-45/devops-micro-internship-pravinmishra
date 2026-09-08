@@ -14,9 +14,9 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
+| **Name** | Amrutha Bandi |
+| **LinkedIn** | (https://www.linkedin.com/in/amruthabandi/) |
+| **Location** | Hyderabad, India |
 | **Background** | Cloud, DevOps & AI Consultant |
 | **Goal** | Train 10,000+ DevOps professionals |
 
