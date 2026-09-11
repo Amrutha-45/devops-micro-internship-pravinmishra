@@ -1,4 +1,4 @@
-<img width="1376" height="768" alt="Gemini_Generated_Image_iovqpkiovqpkiovq" src="https://github.com/user-attachments/assets/3616e05c-5f0f-43fb-b8cf-c6f1db397ae1" /># Week 00 - Internet and Networking
+# Week 00 - Internet and Networking
 
 Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
