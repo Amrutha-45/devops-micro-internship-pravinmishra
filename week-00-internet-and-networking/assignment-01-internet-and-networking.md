@@ -1,4 +1,4 @@
-# Week 00 - Internet and Networking
+<img width="1376" height="768" alt="Gemini_Generated_Image_iovqpkiovqpkiovq" src="https://github.com/user-attachments/assets/3616e05c-5f0f-43fb-b8cf-c6f1db397ae1" /># Week 00 - Internet and Networking
 
 Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
@@ -25,7 +25,8 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a6e3573-704e-42bc-98ce-770eb6837495" />
+) 
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,9 +35,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
-
----
+A networking protocol is a set of predefined rules and standards that devices follow to communicate and exchange data over a network. It defines how data is formatted, transmitted, received, and interpreted between communicating devices. Examples include TCP, IP, HTTP, HTTPS, DNS, and SSH.
 
 # 🌐 Task 2: Internet and Networking
 
