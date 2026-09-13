@@ -58,9 +58,8 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+Imagine a customer in India opening the EpicReads bookstore website, even though its server is located in Finland. When the customer enters the website address, the request is divided into small pieces called packets. This is known as **packet switching**, and the packets may take different routes through the Internet before reaching Finland. The **IP address** identifies the destination server so the request knows where to go. **TCP/IP** controls this communication: IP handles the addressing and routing, while TCP helps deliver the data properly and in the correct order. Once the connection reaches the EpicReads server, **HTTP/HTTPS** allows the browser and server to exchange website information. HTTPS is preferred because it encrypts the communication, making activities such as logging in and purchasing books safer.
 
----
 
 # 🏗️ Task 3: Application Architecture & Stack
 
