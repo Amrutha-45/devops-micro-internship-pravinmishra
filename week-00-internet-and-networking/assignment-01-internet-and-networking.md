@@ -144,9 +144,13 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+1. DNS is a system that converts human-readable domain names, such as epicreads.com, into IP addresses that computers use to locate servers. It makes websites easier to access because users don't have to remember numerical IP addresses.
 
----
+2. An A (Address) record should be used because it connects a domain name to an IPv4 address. Since 52.172.142.222 is an IPv4 address, an A record can map:
+
+epicreads.com → 52.172.142.222
+
+So, when someone enters epicreads.com, DNS directs them to the server at that IP address.
 
 # 💻 Task 5: Visual Studio Code Setup (Hands-on)
 
@@ -180,7 +184,8 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/<img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/2478f676-ee3d-4a83-9cd4-19f2aa254772" />
+)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
