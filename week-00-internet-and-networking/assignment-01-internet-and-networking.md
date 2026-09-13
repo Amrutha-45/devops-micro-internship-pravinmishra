@@ -224,17 +224,30 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
-```
-
+https://www.linkedin.com/posts/amruthabandi_devops-devopslearning-dmi-activity-7504904494137344000-uG3m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPDVrQBiRgPYVYtuI7TM3YhAKe2kcrI21o
 ---
 
 ## LinkedIn Post Backup Copy
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 Week 00 of my DevOps Journey | Internet & Networking
+I’ve started my DevOps Micro Internship (DMI) — Cohort 3 with Agentic AI, and this week was focused on understanding the fundamentals of the Internet and networking.
+Here’s what I worked on 👇
+💬 ChatGPT
+I explored how ChatGPT can be used as a learning assistant for technical topics. I learned about networking protocols and how they act as a set of rules that allow devices to communicate with each other.
+🌐 Internet & Networking
+I understood what happens when a user accesses a website hosted in another country. I learned about packet switching, IP addresses, TCP/IP, and HTTP/HTTPS, and how these work together when data travels across the Internet.
+🏗️ App Architecture
+I explored two-tier and three-tier application architectures. I learned how the frontend, backend, and database interact in a three-tier application and explored technologies such as React.js, Node.js, Express.js, MySQL, and MongoDB. I also created an architecture diagram using a diagramming tool.
+🔗 DNS
+I learned how DNS converts domain names into IP addresses, making websites easier to access. I also learned that an A record can connect an IPv4 address such as 52.172.142.222 with a domain like epicreads.com.
+💻 VS Code Setup
+I set up and worked with Visual Studio Code, opened its integrated terminal, practiced basic commands, and explored the development environment and theme customization.
+This week gave me a better understanding of the fundamentals behind how websites communicate over the Internet and how applications are structured.
+Looking forward to building on these basics and exploring Linux, servers, Git, Docker, CI/CD, cloud, and automation in the upcoming stages of my DevOps journey. 🚀
+hashtag#DevOps hashtag#DevOpsLearning hashtag#DMI hashtag#AgenticAI hashtag#Networking hashtag#DNS hashtag#ApplicationArchitecture hashtag#VSCode hashtag#LearningJourney hashtag#TechStudent Pravin Mishra
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://lnkd.in/dnMwXX96 Start your DevOps journey: https://lnkd.in/diYNBnCA
 
 ---
 
@@ -242,20 +255,18 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found learning the basic concepts of networking and DNS relatively easy. Understanding how IP addresses, TCP/IP, HTTP/HTTPS, and domain names work together was interesting. Setting up VS Code and using its terminal was also easy.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
-
+The most difficult part was understanding how data actually travels between a user and a server through the Internet. I also found the difference between two-tier and three-tier application architecture a little confusing at first, but creating the diagrams helped me understand it better.
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
-
+Next week, I want to improve my understanding of commands, servers, and networking concepts. I also want to practice more instead of only reading the concepts so that I can become more comfortable with DevOps tools and workflows.
 ---
 
 ## 📌 About DMI & CloudAdvisory
