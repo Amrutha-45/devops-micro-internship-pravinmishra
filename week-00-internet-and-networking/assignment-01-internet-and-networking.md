@@ -62,7 +62,10 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+### Networking Concepts (100–150 words)
+
+Networking allows computers to communicate and share information over the internet using standard rules called TCP/IP (Transmission Control Protocol/Internet Protocol). Packet Switching is the method of breaking data into small packets, sending them through different routes, and reassembling them at the destination for efficient transmission. Every device connected to a network has a unique IP Address, which identifies its location and enables data to reach the correct destination. When users open a website, HTTP (HyperText Transfer Protocol) is used to transfer web pages between the browser and the server, while HTTPS is the secure version that encrypts data to protect privacy and sensitive information. Together, packet switching, IP addresses, TCP/IP, and HTTP/HTTPS form the foundation of modern internet communication.
+
 
 ---
 
