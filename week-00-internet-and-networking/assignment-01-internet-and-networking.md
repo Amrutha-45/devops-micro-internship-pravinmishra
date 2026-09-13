@@ -89,7 +89,8 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/<img width="1536" height="1024" alt="devops1" src="https://github.com/user-attachments/assets/9aa50eb2-fdc9-4b94-81f3-d87c68b15118" />
+)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -100,18 +101,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+React.js
+HTML/CSS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+Node.js
+Express.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+MySQL
+MongoDB
 
 ---
 
