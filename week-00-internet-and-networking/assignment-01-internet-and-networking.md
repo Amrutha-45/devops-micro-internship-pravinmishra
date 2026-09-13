@@ -255,7 +255,8 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 Paste your LinkedIn post URL here:
 
-```text
+
+
 https://lnkd.in/p/gZajUc77
 
 
@@ -265,7 +266,36 @@ https://lnkd.in/p/gZajUc77
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 **Week 0 Completed – DevOps Micro Internship (DMI) | Agentic AI Cohort 3**
+
+Excited to share my Week 0 learning journey! This week helped me understand the fundamentals of the Internet, Networking, DNS, and the tools required for DevOps.
+
+### 🤖 ChatGPT
+
+Used ChatGPT as a learning assistant to understand networking concepts, solve doubts, and improve my technical understanding while completing the assignment.
+
+### 🌐 Internet & Networking
+
+Learned how devices communicate using IP addresses, the role of routers and servers, and how networking enables data transfer across the internet.
+
+### 🏗️ App Architecture
+
+Explored the basic client–server architecture, where the client sends requests and the server processes them to deliver web applications efficiently.
+
+### 🌍 DNS
+
+DNS (Domain Name System) converts domain names into IP addresses. I also learned that an **A Record** is used to connect a domain directly to an IPv4 address.
+
+### 💻 VS Code Setup
+
+Configured Visual Studio Code, opened the integrated terminal, executed the `dir` command, and verified my development environment successfully.
+
+A big thank you to **@Pravin Mishra*(https://www.linkedin.com/in/pravin-mishra-aws-trainer/)* and **@Anjana Muthunayake*(https://www.linkedin.com/in/anjana-muthunayake/)* for guiding learners through this amazing DevOps journey.
+
+**P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public:** https://dmi.pravinmishra.com/s/nagajyothigatadi37-cmyk.html **· Start your DevOps journey:** https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
+
+#DMIByPravinMishra #AgenticAI #DevOps
+
 
 ---
 
