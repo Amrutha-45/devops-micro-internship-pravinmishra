@@ -25,7 +25,8 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot]![Uploading image.png…]()
+![Task 1 Screenshot]!![Uploading WhatsApp Image 2026-09-13 at 12.52.19 PM.jpeg…]()
+
 
 
 )
