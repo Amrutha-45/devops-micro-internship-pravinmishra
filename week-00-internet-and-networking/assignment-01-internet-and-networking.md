@@ -303,19 +303,55 @@ A big thank you to **@Pravin Mishra*(https://www.linkedin.com/in/pravin-mishra-a
 
 ### What did you find easy?
 
-Add your answer here...
+## LinkedIn Post URL
 
----
+## LinkedIn Post Backup Copy
+
+🤖 ChatGPT
+
+🚀 **Week 0 Completed – DevOps Micro Internship (DMI) | Agentic AI Cohort 3**
+
+Excited to share my Week 0 learning journey! This week helped me understand the fundamentals of the Internet, Networking, DNS, and the tools required for DevOps.
+
+### 🤖 ChatGPT
+
+Used ChatGPT as a learning assistant to understand networking concepts, solve doubts, and improve my technical understanding while completing the assignment.
+
+### 🌐 Internet & Networking
+
+Learned how devices communicate using IP addresses, the role of routers and servers, and how networking enables data transfer across the internet.
+
+### 🏗️ App Architecture
+
+Explored the basic client–server architecture, where the client sends requests and the server processes them to deliver web applications efficiently.
+
+### 🌍 DNS
+
+DNS (Domain Name System) converts domain names into IP addresses. I also learned that an **A Record** is used to connect a domain directly to an IPv4 address.
+
+### 💻 VS Code Setup
+
+Configured Visual Studio Code, opened the integrated terminal, executed the `dir` command, and verified my development environment successfully.
+
+A big thank you to **@Pravin Mishra** and **@Anjana Muthunayake** for guiding learners through this amazing DevOps journey.
+
+**P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public:** [https://dmi.pravinmishra.com/s/nagajyothigatadi37-cmyk.html](https://dmi.pravinmishra.com/s/nagajyothigatadi37-cmyk.html) **· Start your DevOps journey:** [https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3](https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3)
+
+#DMIByPravinMishra #AgenticAI #DevOps
+
+## Reflection – Week 0
+
+### What did you find easy?
+
+Understanding the basic concepts of the Internet, networking, and using ChatGPT to learn technical topics was easy and enjoyable.
 
 ### What was difficult?
 
-Add your answer here...
-
----
+The DNS record types and distinguishing their purposes required extra practice and careful understanding.
 
 ### What will you improve next week?
 
-Add your answer here...
+I will strengthen my networking fundamentals, practice more terminal commands, and build confidence with hands-on DevOps tools like Git and Linux.
 
 ---
 
