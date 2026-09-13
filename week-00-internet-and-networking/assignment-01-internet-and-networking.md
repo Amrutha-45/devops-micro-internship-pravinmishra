@@ -35,7 +35,8 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+A protocol is a set of rules that helps computers communicate and exchange data over a network. It ensures that data is sent, received, and understood correctly, just like rules in a phone conversation.
+
 
 ---
 
