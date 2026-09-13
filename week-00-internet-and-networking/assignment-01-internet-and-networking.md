@@ -25,7 +25,8 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot]<img width="1485" height="575" alt="WhatsApp Image 2026-09-13 at 12 52 19 PM" src="https://github.com/user-attachments/assets/d16f7f6a-b694-47ab-becd-b8f579f37792" />
+![Task 1 Screenshot]![Uploading image.png…]()
+
 
 )
 
@@ -150,7 +151,10 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+1..DNS (Domain Name System) is the internet’s naming system that translates human-readable domain names, such as `example.com`, into IP addresses that computers use to locate websites. It allows users to access websites without remembering numerical IP addresses.
+
+2..To connect a domain to a given IPv4 address, the correct DNS record is an A (Address) record. It directly maps the domain name to the server’s IP address, ensuring browsers can find and connect to the correct web server efficiently and reliably.
+
 
 ---
 
