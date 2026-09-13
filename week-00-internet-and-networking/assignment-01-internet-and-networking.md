@@ -102,16 +102,19 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 ### Frontend
 
 React.js
+
 HTML/CSS
 
 ### Backend
 
 Node.js
+
 Express.js
 
 ### Database
 
 MySQL
+
 MongoDB
 
 ---
