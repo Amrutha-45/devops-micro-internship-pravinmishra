@@ -25,7 +25,8 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot]!![Uploading WhatsApp Image 2026-09-13 at 12.52.19 PM.jpeg…]()
+![Task 1 Screenshot]!<img width="1624" height="674" alt="image" src="https://github.com/user-attachments/assets/08e2127d-e888-47a3-aae6-87b4238728c5" />
+
 
 
 
