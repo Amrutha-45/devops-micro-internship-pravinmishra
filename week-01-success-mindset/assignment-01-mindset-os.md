@@ -384,15 +384,17 @@ Examples:
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+The biggest insight I discovered is that I learn best through consistency rather than intensity. I do not need perfect conditions or long study hours to make progress. When I practice every day, build small projects, and document what I learn, my confidence and understanding improve much faster
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is overthinking before starting a task. Sometimes I spend too much time worrying about making mistakes instead of beginning the work. I noticed that once I start, the fear disappears, so my focus should be on taking the first step immediately.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+**Habit:** 90 minutes of uninterrupted DevOps deep work with my phone on Do Not Disturb.
+
+**Time:** Monday to Friday, **7:00 PM – 8:30 PM**.
 
 ### LinkedIn Post
 
