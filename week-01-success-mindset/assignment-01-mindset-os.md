@@ -323,7 +323,9 @@ Examples:
 
 Answer:
 
-Add your answer here...
+**Yes**
+
+I wrote down my pending tasks, study goals, internship work, personal responsibilities, worries, ideas, and messages that needed attention. This helped me clear my mind and prioritize what is most important.
 
 ---
 
@@ -339,21 +341,23 @@ Example:
 * Sat: DMI session
 * Sun: Weekly review
 
-#### My Weekly Routine
+### My Weekly Routine
 
-Add your answer here...
-
----
+* **Monday–Friday:** 7:00–8:30 PM — DevOps/DMI deep work and hands-on practice
+* **Saturday:** Attend DMI session and complete weekly assignment
+* **Sunday:** Review the week's progress, update GitHub, and write one learning note or blog
 
 ### Focus Blocks
 
-#### When Will You Do DMI Work? (Days + Time)
+**When will I do DMI work?**
 
-Add your answer here...
+* **Days:** Monday to Friday
+* **Time:** 7:00 PM – 8:30 PM
 
-#### How Many Sessions Per Week?
+**How many sessions per week?**
 
-Add your answer here...
+* **5 focused sessions** (90 minutes each)
+* **1 weekly review session** on Sunday
 
 ---
 
@@ -367,7 +371,12 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Keep my phone on **Do Not Disturb** during study sessions.
+* Do not open Instagram, YouTube, or other social media until the daily DMI task is completed.
+* Study only at my desk with VS Code and required learning resources open.
+* Follow the **50–10 focus rule**: 50 minutes of deep work followed by a 10-minute break.
+* Record completed tasks before ending each study session to maintain consistency.
+
 
 ---
 
