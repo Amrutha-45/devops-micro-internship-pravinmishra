@@ -33,7 +33,10 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that "consistent learning is more valuable than natural talent". Many people around me think you need to be exceptionally intelligent or have a perfect academic background to build a successful career in technology. I disagree with that. I believe that showing up every day, practicing regularly, and improving a little at a time creates better long-term results than relying on talent alone.
+
+This belief is the reason I am learning DevOps step by step. Even when I don't understand a concept immediately, I continue studying, asking questions, and applying what I learn. For me, discipline is not about being perfect—it is about staying committed when progress feels slow. I believe that persistence eventually beats potential.
+
 
 ---
 
