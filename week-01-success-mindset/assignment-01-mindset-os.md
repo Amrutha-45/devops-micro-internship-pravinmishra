@@ -58,11 +58,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistency produces better results than working only when I feel motivated.
 
 ### Evidence from my life
 
-Add your answer here...
+While learning Python and beginning my DevOps internships,I studied a little every day instead of waiting for the perfect mood.I completed assignments on time and understood concepts more clearly because regular practice built confidence.
 
 ---
 
@@ -70,11 +70,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+The fastest way to build a technical skill is by building and fixing real projects.
 
 ### Evidence from my life
 
-Add your answer here...
+I created a Python weather application and faced errors with APIs and code.Instead of giving up,I debbuged the problems and corrected them.That experience taught me more than simply reading theory or watching tutorials.
 
 ---
 
@@ -82,11 +82,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Asking questions early saves more time than struggling in silence.
 
 ### Evidence from my life
 
-Add your answer here...
+Whatever I confused about networking,DNS,DevOps concepts,I asked questions and clarified my doubts immediately.as a result understood the topics faster and was able to complete practical tasks with greater accuracy.
 
 ---
 
