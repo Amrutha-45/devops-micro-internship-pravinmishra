@@ -215,7 +215,14 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+**Yes**
+
+# What emotion did you feel?
+
+There was a time when I chose a shortcut instead of fully understanding a task. Although it helped me finish quickly, I did not feel satisfied afterward. I felt guilty because I knew the result did not truly reflect my ability or effort. The biggest emotion was regret, not because of the outcome, but because I missed an opportunity to learn something valuable.
+
+That experience changed my mindset. I realized that shortcuts may save a few minutes, but they often delay real growth. Since then, I have tried to complete my work honestly, ask questions when I do not understand something, and focus on building genuine skills rather than only finishing the task.
+
 
 ---
 
