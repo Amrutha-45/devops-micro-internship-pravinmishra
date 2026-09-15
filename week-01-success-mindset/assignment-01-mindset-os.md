@@ -55,11 +55,10 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Building and solving problems yourself teaches you more deeply than only consuming tutorials or explanations.
 
 ### Evidence from my life
-
-Add your answer here...
+While working on my projects, I faced errors that I could not solve just by watching tutorials. I had to read the error messages, try different solutions, and understand why something was failing. After solving those problems myself, I remembered the concepts much better and became more confident in debugging.
 
 ---
 
@@ -67,23 +66,22 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Consistent small efforts produce better results than depending on last-minute work.
 
 ### Evidence from my life
 
-Add your answer here...
-
+I have experienced situations where delaying assignments and project work created unnecessary pressure close to deadlines. When I started breaking larger tasks into smaller parts and working on them regularly, I was able to complete them with less stress and had more time to review my work. The result showed me that consistency is more reliable than last-minute effort.
 ---
 
 ## Truth #3
 
 ### Truth
 
-Add your answer here...
+Progress becomes faster when I actively work on difficult problems instead of avoiding them
 
 ### Evidence from my life
 
-Add your answer here...
+While working on technical projects, I have faced problems involving code errors, deployment, APIs, databases, and configuration. Initially, these problems felt difficult, but working through them forced me to understand concepts that I would not have learned by choosing only easy tasks. Each difficult problem I solved made the next one easier to approach.
 
 ---
 
