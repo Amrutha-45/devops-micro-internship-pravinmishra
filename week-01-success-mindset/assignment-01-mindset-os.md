@@ -33,9 +33,8 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that being busy does not necessarily mean you are progressing. Many people around me think that studying for long hours, completing many tasks, or constantly learning new things means they are moving forward. I disagree. I believe that focused work on the right things matters more than simply being busy. Someone who spends two hours building, failing, debugging, and understanding a real project can learn more than someone who spends six hours only watching tutorials. I also believe that staying comfortable for too long is one of the biggest risks to a career. Real growth usually comes when we take on difficult tasks, make mistakes, and learn how to solve problems independently. For me, progress means becoming more capable, not just having more things completed on my checklist.
 
----
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
 
