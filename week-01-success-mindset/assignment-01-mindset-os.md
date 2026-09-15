@@ -295,9 +295,10 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
----
+Reason:
+I wrote down the tasks, goals, pending work, responsibilities, ideas, and things I was worried about. It helped me clear my mind, organize what needed my attention, and identify the important tasks I should focus on instead of keeping everything in my head.
 
 ## Step 2: Your 5-Month Routine + Focus Blocks
 
@@ -313,7 +314,11 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday–Thursday: College academics, 60 minutes of focused career learning, and DMI work when scheduled.
+Friday: Review pending college work and continue project or technical learning.
+Saturday: Dedicated DMI session, project development, and coding practice.
+Sunday: Weekly review, planning for the next week, revision, and unfinished tasks.
+Daily: Track important tasks, protect sleep, and spend some time improving technical skills
 
 ---
 
@@ -321,12 +326,13 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday–Thursday: 7:00 PM–8:00 PM
+Saturday: 10:00 AM–12:00 PM
+Sunday: 5:00 PM–6:00 PM for review and pending work
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
-
+6 sessions per week
 ---
 
 ### Distraction Rules
@@ -339,7 +345,14 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+1. Keep my phone away or on Do Not Disturb during deep-work sessions.
+2. Avoid Instagram, YouTube, and unnecessary social media during study and DMI focus blocks.
+3. Use social media only after completing the planned important tasks.
+4. Keep only the required tabs, applications, and resources open while working.
+5. Study and work in a clean environment with minimum distractions.
+6. Avoid switching between multiple tasks unnecessarily.
+7. If I get stuck, spend time understanding and debugging the problem before looking for a ready-made solution.
+8. Protect my sleep schedule instead of sacrificing sleep regularly to finish work at the last minute.
 
 ---
 
@@ -347,15 +360,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I make better progress when I have a clear system instead of depending on motivation. I also understood that I learn more when I work on difficult problems and actually try to solve them instead of always looking for the easiest way. My progress depends more on consistency and focused effort than on being busy.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is sometimes delaying important tasks when I feel overwhelmed by college work, projects, or multiple responsibilities. This can lead to last-minute pressure and make me focus more on completing the task than learning from it. I noticed that I need to break large tasks into smaller steps and start them earlier.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will follow a daily 60-minute focused career-learning block from 7:00 PM to 8:00 PM, Monday to Thursday. During this time, I will keep my phone away, avoid social media, and work on DMI, coding, AI/ML learning, or my current project. Every Sunday evening, I will review my progress and plan the following week.
 
 ### LinkedIn Post
 
@@ -367,8 +380,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/posts/amruthabandi_dmi-devops-micro-internship-with-agentic-activity-7505541327820931072-81mK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPDVrQBiRgPYVYtuI7TM3YhAKe2kcrI21o  
+- Blog / Medium : https://medium.com/@bandiamrutha45/week-01-success-mindset-building-my-mindset-os-2f6b5c590f34
 
 ---
 
