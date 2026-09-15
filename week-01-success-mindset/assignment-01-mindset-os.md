@@ -191,7 +191,11 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+**Yes**
+
+
+I have taken shortcuts before, especially when I was under pressure to finish an assignment or task before a deadline. Even when the shortcut helped me complete the work faster, I felt uncomfortable because I knew I had not given the task my genuine effort. I felt guilty and slightly stressed because I was aware that finishing something is not the same as actually learning it. It also made me realize that shortcuts can give temporary relief but can leave gaps in my understanding. Since then, I have tried to focus more on learning and completing important work properly rather than only trying to finish it quickly.
+
 
 ---
 
