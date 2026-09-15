@@ -132,13 +132,34 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+# My 2.0 Version: From Learning to Building
+
+Five years ago, Amrutha was an AIML student building her foundation in programming, artificial intelligence, machine learning, and software development. She had started working on technical projects, internships, hackathons, and DevOps learning. Over the years, this foundation became a strong technology career.
+
+By 2030, Amrutha had built and shipped several real-world AI and software projects. Her GitHub portfolio demonstrated practical skills in Python, machine learning, APIs, databases, RAG systems, cloud technologies, and deployment. One of her early projects, CampusRAG, had grown from a college project into a well-documented RAG-based application.
+
+She had moved beyond building projects only on her local system. She had deployed applications, solved technical errors, worked with APIs and databases, and learned how different components worked together. Her DevOps experience included Git, GitHub, Linux, networking, CI/CD, containers, and cloud platforms. The combination of AI and DevOps became an important part of her technical profile.
+
+Her GitHub repositories contained organized code, README files, documentation, and project demonstrations. She had also published technical blogs about AI, DevOps, project development, debugging, and lessons from her experiments. Her portfolio showed practical work rather than only a list of technologies.
+
+Amrutha had earned relevant certifications and completed internships that provided practical exposure to professional workflows. She had participated in hackathons and collaborated with other developers, contributing ideas, solving problems under deadlines, and taking responsibility for delivering features.
+
+One of her biggest changes was her approach to difficult problems. Instead of immediately depending on others, she learned to read documentation, understand errors, experiment with solutions, and debug independently. Failures became part of her learning process.
+
+She had also contributed to the technical community by sharing projects, publishing useful explanations, and helping other students. Her LinkedIn profile reflected her growth through projects, internships, certifications, and technical posts.
+
+Professionally, Amrutha had moved into an AI/ML engineering role and contributed to real-world applications. She had become comfortable learning unfamiliar technologies and working with other engineers.
+
+The biggest difference between her earlier self and her 2.0 version was her ability to turn knowledge into results. She had become someone who could take a problem, build a solution, test it, deploy it, document it, and improve it.
+
+**P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public:** https://dmi.pravinmishra.com/s/Amrutha-45.html **· Start your DevOps journey:** https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3
+
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/amruthabandi_dmi-devops-micro-internship-with-agentic-activity-7505541327820931072-81mK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPDVrQBiRgPYVYtuI7TM3YhAKe2kcrI21o
 
 ---
 
