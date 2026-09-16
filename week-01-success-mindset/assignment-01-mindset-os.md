@@ -374,8 +374,7 @@ I will follow a daily 60-minute focused career-learning block from 7:00 PM to 8:
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
-
+https://lnkd.in/p/dJD4AiMZ
 ---
 
 ## 10. Proof of Work
