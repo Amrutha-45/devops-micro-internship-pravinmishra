@@ -38,7 +38,10 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 Add your screenshot here.
 
----
+<img width="1920" height="1080" alt="Week-2-A2-SS-2" src="https://github.com/user-attachments/assets/fd9a32ea-9d13-43c3-ba6a-ce9e79e8c6cb" />
+
+
+
 
 # Task 3 — Customize the CLAUDE.md
 
