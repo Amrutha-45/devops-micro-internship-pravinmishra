@@ -72,9 +72,8 @@ Configure Claude Code permissions and connect the hook scripts created in the pr
 
 #### Screenshot 5 — `settings.json` open in VS Code showing permissions and hooks configuration
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="WEEK2A6SS5" src="https://github.com/user-attachments/assets/d339f879-0009-4b38-bd32-8679e0d562ef" />
 
----
 
 # Task 6 — Test the UserPromptSubmit Hook
 
