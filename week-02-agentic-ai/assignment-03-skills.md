@@ -42,7 +42,8 @@ Add your screenshot here.
 
 #### Screenshot 3 — Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="WEEK2A3SS3" src="https://github.com/user-attachments/assets/59b53ba8-efb1-4db4-840c-1ee07bca99f4" />
+
 
 ---
 
