@@ -99,9 +99,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 Paste your forked repository URL here:
 
-`Add your URL here`
-
----
+https://github.com/Amrutha-45/Ultimate-Agentic-DevOps-with-Claude-Code
 
 # Completion Checklist
 
