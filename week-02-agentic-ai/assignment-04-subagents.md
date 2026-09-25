@@ -84,9 +84,8 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+<img width="1267" height="596" alt="WEEK2A4SS6" src="https://github.com/user-attachments/assets/0106a4eb-4fbe-4c5d-9ee7-7b16781171a5" />
 
----
 
 # Submission Instructions
 
