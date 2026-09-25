@@ -85,7 +85,7 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather â
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/Amrutha-45/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ---
 
