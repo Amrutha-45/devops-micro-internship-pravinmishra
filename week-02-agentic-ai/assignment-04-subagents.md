@@ -48,15 +48,13 @@ The tf-writer uses inherit so that it uses the model configuration from the main
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+<img width="1422" height="1013" alt="WEEK2A4SS2" src="https://github.com/user-attachments/assets/59c6674f-c1c3-4b2c-b14b-c891ca6b8276" />
 
----
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+<img width="1391" height="1002" alt="WEEK2A4SS3" src="https://github.com/user-attachments/assets/43d91ebd-6137-46f8-a099-561f92e4eee7" />
 
----
 
 # Task 3 — Run the Security Auditor
 
