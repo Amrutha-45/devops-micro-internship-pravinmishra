@@ -36,7 +36,6 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
-Add your screenshot here.
 
 <img width="1920" height="1080" alt="Week-2-A2-SS-2" src="https://github.com/user-attachments/assets/fd9a32ea-9d13-43c3-ba6a-ce9e79e8c6cb" />
 
@@ -89,7 +88,6 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-Add your screenshot here.
 
 <img width="1920" height="1080" alt="Week-2-A2-SS-6" src="https://github.com/user-attachments/assets/e2fb7820-c103-4b40-bde6-71d0a53a9610" />
 
