@@ -63,7 +63,8 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 
 #### Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
-![Uploading Week-02-SS-5.png…]()
+<img width="1920" height="1080" alt="Week-02-SS-5" src="https://github.com/user-attachments/assets/75dbfdb1-2fae-4646-b12c-77bccabcde2c" />
+
 
 
 
