@@ -91,7 +91,8 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 Add your screenshot here.
 
----
+<img width="1920" height="1080" alt="Week-2-A2-SS-6" src="https://github.com/user-attachments/assets/e2fb7820-c103-4b40-bde6-71d0a53a9610" />
+
 
 # Submission Instructions
 
