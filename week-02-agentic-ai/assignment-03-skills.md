@@ -96,7 +96,7 @@ https://github.com/Amrutha-45/Ultimate-Agentic-DevOps-with-Claude-Code
 ## LinkedIn post URL
 
 Paste your forked repository URL here:
-
+https://lnkd.in/p/dtZmKnvj
 
 
 # Completion Checklist
