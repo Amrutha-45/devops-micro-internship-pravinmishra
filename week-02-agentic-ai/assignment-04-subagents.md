@@ -66,15 +66,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="WEEK2A4SS4" src="https://github.com/user-attachments/assets/a5f8519b-066d-4058-b138-b732c92cc01d" />
 
----
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+<img width="1347" height="717" alt="WEEK2A4SS5" src="https://github.com/user-attachments/assets/a22e444b-7c3d-4425-904d-ff4099bfa9d9" />
 
----
 
 # Task 4 — Run the Cost Optimizer
 
