@@ -34,21 +34,15 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
-
----
+The cost optimizer uses Haiku because cost analysis is a focused task that does not always require the higher reasoning capability of Sonnet. Haiku provides faster and more economical processing while still being suitable for analyzing infrastructure costs.
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
-
----
+The security auditor is only meant to inspect and analyze the Terraform infrastructure. It does not have the Write tool so that it cannot accidentally modify project files while performing a security review.
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
-
----
+The tf-writer uses inherit so that it uses the model configuration from the main Claude Code session instead of being tied to one specific model. This makes the agent more flexible.
 
 ### Evidence
 
