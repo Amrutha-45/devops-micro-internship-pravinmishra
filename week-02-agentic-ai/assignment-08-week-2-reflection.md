@@ -88,25 +88,33 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="week2-Lknd" src="https://github.com/user-attachments/assets/aba83730-59c8-4823-8009-53ebbdad9110" />
 
----
 
 ### Submission Field
 
 LinkedIn Post Content (copy-paste here):
 
-```
-Paste your LinkedIn post content here
-```
+🚀 **Week 2 — Learning with Agentic AI**
 
----
+This week of my DevOps Micro Internship was all about getting hands-on with AI-powered development workflows.
+
+I explored **Claude Code, Skills, Subagents, MCP, Hooks, Permissions, and Memory**. One of the most interesting parts was configuring specialized subagents for security and cost analysis, and creating safety hooks to prevent destructive infrastructure commands.
+
+I also explored Claude Code’s project memory by saving project-specific rules, restarting the session, and testing whether Claude could recall those rules without being reminded. Seeing the memory work across sessions was a really interesting experience! 🧠
+
+Along the way, I faced challenges with authentication, MCP configuration, API access, and tool setup. Troubleshooting these issues helped me understand that working with AI agents isn't just about giving them tasks — it is also about defining clear instructions, permissions, safety controls, and verification steps.
+
+Overall, Week 2 helped me understand how AI agents can be structured and integrated into practical DevOps workflows. 🚀
+
+**P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by** [**Pravin Mishra**](https://www.linkedin.com/in/pravin-mishra-aws-trainer/)**. My graded progress is public:** [**https://dmi.pravinmishra.com/s/Amrutha-45.html**](https://dmi.pravinmishra.com/s/Amrutha-45.html) **· Start your DevOps journey:** [**https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**](https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3)
+
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
+
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
-
----
+https://www.linkedin.com/feed/update/urn:li:activity:7509492607018840064/
 
 # Submission Instructions
 
