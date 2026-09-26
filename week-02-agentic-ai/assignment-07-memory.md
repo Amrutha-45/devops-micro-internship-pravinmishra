@@ -33,9 +33,8 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="WEEK2A7SS2" src="https://github.com/user-attachments/assets/b723ac29-e204-42c2-85f5-822022f501d9" />
 
----
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
