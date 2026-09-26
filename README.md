@@ -70,9 +70,9 @@ This is not a course. It is an internship-style program — real deployments, re
 
  [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)  [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) 
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
-
+ Week 02 → Agentic AI with Claude Code
+ [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) 
+ 
 <!-- Week 03 → Linux & Bash for DevOps -->
 <!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
 
@@ -129,7 +129,7 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/amruthabandi_devops-devopslearning-dmi-activity-7504904494137344000-uG3m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPDVrQBiRgPYVYtuI7TM3YhAKe2kcrI21o | https://medium.com/@bandiamrutha45/my-week-0-devops-journey-understanding-the-internet-networking-355f6f5b0978?postPublishedType=initial |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/amruthabandi_dmi-devops-micro-internship-with-agentic-activity-7505541327820931072-81mK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPDVrQBiRgPYVYtuI7TM3YhAKe2kcrI21o | https://medium.com/@bandiamrutha45/week-01-success-mindset-building-my-mindset-os-2f6b5c590f34 |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/feed/update/urn:li:activity:7509492607018840064/ | https://medium.com/@bandiamrutha45/reflection-week-2-c0050527a3c9?postPublishedType=initial |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
