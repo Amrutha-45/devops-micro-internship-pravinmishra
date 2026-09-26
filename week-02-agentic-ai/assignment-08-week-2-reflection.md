@@ -114,7 +114,7 @@ Overall, Week 2 helped me understand how AI agents can be structured and integra
 
 ### LinkedIn Post Link:
 
-https://www.linkedin.com/feed/update/urn:li:activity:7509492607018840064/
+https://lnkd.in/p/duavMShK
 
 # Submission Instructions
 
