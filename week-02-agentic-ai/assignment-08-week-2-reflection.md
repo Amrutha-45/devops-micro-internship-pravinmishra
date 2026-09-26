@@ -46,17 +46,13 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
-
----
+<img width="1920" height="1080" alt="WEEK2-BLOG" src="https://github.com/user-attachments/assets/1f49c7f2-7c8d-44da-935d-b5ffecd41ee6" />
 
 ### Submission Field
 
 Blog Link:
 
-`Add your URL here`
-
----
+https://medium.com/@bandiamrutha45/reflection-week-2-c0050527a3c9
 
 # Task 2 — Create LinkedIn Post
 
