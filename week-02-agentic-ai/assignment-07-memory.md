@@ -51,9 +51,8 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="WEEK2A7SS4" src="https://github.com/user-attachments/assets/2090e526-9209-4075-8f3f-bbd0724f2a0d" />
 
----
 
 # Task 4 — Prove Memory Recall Across Sessions
 
