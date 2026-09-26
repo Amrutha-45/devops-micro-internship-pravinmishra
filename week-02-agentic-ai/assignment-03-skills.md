@@ -96,7 +96,6 @@ https://github.com/Amrutha-45/Ultimate-Agentic-DevOps-with-Claude-Code
 Paste your forked repository URL here:
 https://lnkd.in/p/dtZmKnvj
 
-
 # Completion Checklist
 
 - [ ] `.claude/skills/` folder created with all 4 skill folders
