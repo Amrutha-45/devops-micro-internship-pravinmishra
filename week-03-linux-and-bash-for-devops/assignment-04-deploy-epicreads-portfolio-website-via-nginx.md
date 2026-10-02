@@ -77,9 +77,8 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+<img width="790" height="50" alt="W3A4SS5" src="https://github.com/user-attachments/assets/ed2c066b-3824-43b0-a280-553f129b19af" />
 
----
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
