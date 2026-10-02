@@ -59,9 +59,8 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-Add your screenshot here.
+<img width="925" height="313" alt="W3A4SS3" src="https://github.com/user-attachments/assets/de7668e1-6ace-4f1e-9d67-2385a4e071a6" />
 
----
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
