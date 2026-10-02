@@ -33,9 +33,8 @@ Install Nginx, start the service, and confirm it is running.
 
 #### Screenshot 2 — Output of `systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="W3A2SS2" src="https://github.com/user-attachments/assets/3a2fba89-7eea-4454-aea5-d156c973b584" />
 
----
 
 # Task 3 — Clone React Application
 
