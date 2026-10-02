@@ -50,9 +50,8 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
+<img width="380" height="651" alt="W3A1SS1" src="https://github.com/user-attachments/assets/4459570a-a1c2-49b0-8a69-162beeded777" />
 
----
 
 # Submission Instructions
 
