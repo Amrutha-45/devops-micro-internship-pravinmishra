@@ -72,9 +72,8 @@ Install dependencies and generate the production build.
 
 #### Screenshot 5 — Output of `ls` inside `my-react-app` showing the `build/` folder generated
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="W3A2SS5" src="https://github.com/user-attachments/assets/1254779c-cf62-49b0-97dc-b27d5ef75c85" />
 
----
 
 # Task 6 — Deploy React Build to Nginx Web Root
 
