@@ -82,9 +82,8 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-Add your screenshot here.
+<img width="1917" height="642" alt="W3A4SS6" src="https://github.com/user-attachments/assets/7d03804a-8031-4769-916c-ee45a28dab87" />
 
----
 
 # Task 5 — Mini Real DevOps Operational Check
 
