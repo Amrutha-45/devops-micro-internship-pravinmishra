@@ -136,9 +136,8 @@ https://www.linkedin.com/feed/update/urn:li:activity:7511755864190607360/
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/9190af33-042a-45c1-90e8-a5d27c22c4dc" />
 
----
 
 # Submission Instructions
 
