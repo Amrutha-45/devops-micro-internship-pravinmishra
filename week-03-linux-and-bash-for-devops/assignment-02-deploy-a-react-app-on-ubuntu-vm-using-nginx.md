@@ -85,9 +85,8 @@ Copy the production build files to the Nginx web root directory.
 
 #### Screenshot 6 — Output of `ls /var/www/html/` showing the deployed build contents
 
-Add your screenshot here.
+<img width="825" height="135" alt="W3A2SS6" src="https://github.com/user-attachments/assets/d0dc71c1-5718-45cb-809b-25409393b73a" />
 
----
 
 # Task 7 — Configure Nginx for React Application
 
