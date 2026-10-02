@@ -46,9 +46,8 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="W3A4SS2 (2)" src="https://github.com/user-attachments/assets/da56d2a6-4df0-4962-ba85-9841019e7bb1" />
 
----
 
 # Task 3 — Deploy Website via Nginx
 
