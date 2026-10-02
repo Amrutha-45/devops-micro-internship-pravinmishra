@@ -33,9 +33,8 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-Add your screenshot here.
+<img width="760" height="737" alt="W3A4SS2" src="https://github.com/user-attachments/assets/8b0aeeae-07d0-440d-a633-0146c3c9f3b9" />
 
----
 
 # Task 2 — Add Ownership Proof (Anti-Copy Change)
 
