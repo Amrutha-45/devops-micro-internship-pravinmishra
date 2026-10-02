@@ -46,9 +46,8 @@ Clone the project repository and verify the project files are present.
 
 #### Screenshot 3 — Output of `ls` inside the `my-react-app` directory showing project files
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="W3A2SS3" src="https://github.com/user-attachments/assets/56a8bf60-aa29-4749-903a-7fb02e67816a" />
 
----
 
 # Task 4 — Modify Application (Personalization)
 
