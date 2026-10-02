@@ -59,9 +59,8 @@ Update `App.js` with your full name and the current date.
 
 #### Screenshot 4 — `nano App.js` open showing your full name and date filled in
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="W3A2SS4" src="https://github.com/user-attachments/assets/4daa9602-9a78-47ea-aba4-6df7b0500de6" />
 
----
 
 # Task 5 — Build React Application
 
