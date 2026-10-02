@@ -95,9 +95,7 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-Add your screenshot here.
-
----
+<img width="592" height="115" alt="W3A4SS7" src="https://github.com/user-attachments/assets/bdd78868-68f5-4973-a5c8-b16834ee6acb" />
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
