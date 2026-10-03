@@ -336,15 +336,12 @@ The script uses variables to store information, an array to store the list of to
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
-
----
+https://www.linkedin.com/feed/update/urn:li:activity:7512190518995615744/
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/8be692a6-f0a4-4463-93da-de5a951c0f3d" />
 
----
 
 # Submission Instructions
 
