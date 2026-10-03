@@ -54,21 +54,18 @@ Create your first Bash script, make it executable, and run it from the terminal.
 
 #### Screenshot 1 — Content of `first-script.sh`
 
-Add your screenshot here.
+<img width="827" height="163" alt="Screenshot 2026-10-03 211817" src="https://github.com/user-attachments/assets/56ee9b14-ec9b-47f2-ac14-ba3338c77572" />
 
----
 
 #### Screenshot 2 — Output of `./first-script.sh`
 
-Add your screenshot here.
+<img width="913" height="133" alt="Screenshot 2026-10-03 212301" src="https://github.com/user-attachments/assets/e250d641-feef-42bb-b9e2-cd6c189188af" />
 
----
 
 #### Screenshot 3 — Output of `ls -l first-script.sh` showing executable permission
 
-Add your screenshot here.
+<img width="825" height="40" alt="Screenshot 2026-10-03 212417" src="https://github.com/user-attachments/assets/d4feebea-2742-496c-9b8f-033a687e7c0c" />
 
----
 
 ### Notes
 
