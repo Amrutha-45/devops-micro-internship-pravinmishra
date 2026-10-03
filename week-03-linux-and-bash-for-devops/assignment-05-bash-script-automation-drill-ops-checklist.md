@@ -76,21 +76,15 @@ Answer the following in your own words:
 
 **1. What is the purpose of `#!/bin/bash`?**
 
-Add your answer here.
-
----
+#!/bin/bash tells the system to use Bash to execute the script.
 
 **2. Why do we use `chmod +x` before running a script?**
 
-Add your answer here.
-
----
+chmod +x gives the script permission to be executed. After this, we can run it directly using ./script.sh.
 
 **3. What is the difference between running a script using `./script.sh` and `bash script.sh`?**
 
-Add your answer here.
-
----
+./script.sh runs the script as an executable and uses the interpreter mentioned in the first line of the script. bash script.sh directly tells Bash to run the script.
 
 # Task 3 — Variables: User Information Script
 
@@ -118,21 +112,15 @@ Answer the following in your own words:
 
 **1. What is a variable in Bash?**
 
-Add your answer here.
-
----
+A variable in Bash is a name used to store a value, such as text or a number, so that it can be used later in the script.
 
 **2. Why should we avoid spaces around the `=` sign when creating variables?**
 
-Add your answer here.
-
----
+Bash does not allow spaces around = during variable assignment. Spaces can make Bash treat the assignment as a command instead of a variable.
 
 **3. How do you access the value stored inside a Bash variable?**
 
-Add your answer here.
-
----
+We use the $ symbol followed by the variable name. For example, if the variable is name, we use $name to access its value.
 
 # Task 4 — Arrays & Loops: Tools Checklist Script
 
@@ -160,27 +148,20 @@ Answer the following in your own words:
 
 **1. What is an array in Bash?**
 
-Add your answer here.
-
----
+An array in Bash is a variable that can store multiple values under one name.
 
 **2. Why are arrays useful in scripts?**
 
-Add your answer here.
+Arrays are useful for storing related values together and processing them easily using loops.
 
----
 
 **3. What does `"${tools[@]}"` mean?**
 
-Add your answer here.
-
----
+"${tools[@]}" represents all the values stored in the tools array, with each value treated as a separate item.
 
 **4. What is the purpose of the `for` loop in this script?**
 
-Add your answer here.
-
----
+The for loop is used to go through each tool in the array one by one and print it as part of the checklist.
 
 # Task 5 — Loops: Number Counter Script
 
@@ -208,27 +189,19 @@ Answer the following in your own words:
 
 **1. What is a loop?**
 
-Add your answer here.
-
----
+A loop is a programming structure that repeats a set of commands multiple times.
 
 **2. Why do we use loops in Bash scripting?**
 
-Add your answer here.
-
----
+We use loops to automate repetitive tasks without writing the same commands again and again.
 
 **3. How many times did the loop run in your script?**
 
-Add your answer here.
-
----
+The loop ran 5 times.
 
 **4. What would you change if you wanted the loop to run 10 times?**
 
-Add your answer here.
-
----
+I would change {1..5} to {1..10} in the for loop.
 
 # Task 6 — Files & Conditionals: File Validation Script
 
@@ -262,27 +235,19 @@ Answer the following in your own words:
 
 **1. What does `-d` check in Bash?**
 
-Add your answer here.
-
----
+-d checks whether the given path exists and is a directory.
 
 **2. What does `-f` check in Bash?**
 
-Add your answer here.
-
----
+-f checks whether the given path exists and is a regular file.
 
 **3. Why should file and directory paths be stored in variables?**
 
-Add your answer here.
-
----
+Storing paths in variables makes the script easier to read, update, and maintain because we can change the path in one place.
 
 **4. What happens if the file does not exist?**
 
-Add your answer here.
-
----
+The file check condition becomes false, so the script executes the else block and displays a message saying that the file does not exist.
 
 # Task 7 — Conditionals: Pass or Retry Script
 
@@ -322,27 +287,19 @@ Answer the following in your own words:
 
 **1. What is the purpose of if-else in Bash?**
 
-Add your answer here.
-
----
+if-else is used to make decisions in a script based on whether a condition is true or false.
 
 **2. What does `-ge` mean?**
 
-Add your answer here.
-
----
+-ge means greater than or equal to.
 
 **3. Why should conditions be tested with different values?**
 
-Add your answer here.
-
----
+Conditions should be tested with different values to make sure the script works correctly in different situations.
 
 **4. How can conditionals help in automation scripts?**
 
-Add your answer here.
-
----
+Conditionals help automation scripts make decisions and perform different actions depending on the situation or input.
 
 # Task 8 — Functions: Final Bash Automation Script
 
