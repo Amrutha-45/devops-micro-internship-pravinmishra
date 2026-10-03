@@ -20,9 +20,8 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 1 — Output of `echo $SHELL` and `bash --version`
 
-Add your screenshot here.
+<img width="753" height="380" alt="W3A5SS1" src="https://github.com/user-attachments/assets/bcb925f8-606c-40af-a0e6-a83d2e1a74be" />
 
----
 
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
