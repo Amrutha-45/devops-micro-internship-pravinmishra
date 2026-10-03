@@ -34,21 +34,15 @@ Answer the following in your own words:
 
 **1. What is Bash?**
 
-Add your answer here.
-
----
+Bash is a command-line shell used in Linux to run commands and execute scripts. It also provides a scripting language that can be used to automate tasks.
 
 **2. What is the difference between shell and Bash?**
 
-Add your answer here.
-
----
+A shell is a program that allows us to interact with the operating system through commands. Bash is one type of shell. Other shells include Zsh and Fish.
 
 **3. Why is it important to confirm the Bash version before writing scripts?**
 
-Add your answer here.
-
----
+It is important to check the Bash version because some commands and features may work differently in different versions. Checking the version helps make sure the script will run correctly on the system.
 
 # Task 2 — Your First Bash Script
 
