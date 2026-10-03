@@ -204,21 +204,18 @@ Use file checks and conditionals to verify whether files and directories exist.
 
 #### Screenshot 1 — Output of `ls -lah ../test-folder`
 
-Add your screenshot here.
+<img width="1031" height="117" alt="Screenshot 2026-10-03 215622" src="https://github.com/user-attachments/assets/5d2665ca-9c73-448e-951d-882976279518" />
 
----
 
 #### Screenshot 2 — Content of `file-check.sh`
 
-Add your screenshot here.
+<img width="761" height="422" alt="Screenshot 2026-10-03 215755" src="https://github.com/user-attachments/assets/203d6804-cf9c-457d-b257-96615e3d122e" />
 
----
 
 #### Screenshot 3 — Output of `./file-check.sh`
 
-Add your screenshot here.
+<img width="730" height="97" alt="Screenshot 2026-10-03 215901" src="https://github.com/user-attachments/assets/032bfaeb-1f00-4239-9277-a2153f81b32e" />
 
----
 
 ### Notes
 
@@ -250,27 +247,23 @@ Use if-else conditionals to make decisions based on a variable value.
 
 #### Screenshot 1 — Content of `score-check.sh` with `score=85`
 
-Add your screenshot here.
+<img width="800" height="267" alt="Screenshot 2026-10-03 220101" src="https://github.com/user-attachments/assets/35d14d0c-43fc-4034-89a9-46f08e0641b3" />
 
----
 
 #### Screenshot 2 — Output showing `Result: Pass`
 
-Add your screenshot here.
+<img width="786" height="102" alt="Screenshot 2026-10-03 220201" src="https://github.com/user-attachments/assets/9d24d636-1c89-4e87-9f88-dbedce5f1fb8" />
 
----
 
 #### Screenshot 3 — Content of `score-check.sh` with `score=55`
 
-Add your screenshot here.
+<img width="816" height="282" alt="Screenshot 2026-10-03 220447" src="https://github.com/user-attachments/assets/b0731c50-96ad-48e1-b202-ba8f3e0d398c" />
 
----
 
 #### Screenshot 4 — Output showing `Result: Retry`
 
-Add your screenshot here.
+<img width="757" height="82" alt="Screenshot 2026-10-03 220548" src="https://github.com/user-attachments/assets/fcc913ae-612d-424d-b69c-49a622e7f2a3" />
 
----
 
 ### Notes
 
@@ -302,21 +295,18 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 1 — Content of `final-automation.sh`
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/e5913e36-1012-4e83-9969-b5cf62f2176d" />
 
----
 
 #### Screenshot 2 — Output of `./final-automation.sh`
 
-Add your screenshot here.
+<img width="785" height="430" alt="Screenshot 2026-10-03 220857" src="https://github.com/user-attachments/assets/409570ad-4cea-4248-870a-c6d388060049" />
 
----
 
 #### Screenshot 3 — Output of `ls -lah` showing all created scripts
 
-Add your screenshot here.
+<img width="815" height="262" alt="Screenshot 2026-10-03 220958" src="https://github.com/user-attachments/assets/25b9afd4-77dd-4ce3-8b5b-181c52b0b32f" />
 
----
 
 ### Notes
 
