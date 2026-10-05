@@ -64,21 +64,15 @@ Answer the following in your own words:
 
 **1. Why should Claude receive project-specific operational rules?**
 
-Add your answer here.
-
----
+Claude needs project-specific rules so it understands what the project does, follows the correct incident workflow, and knows which actions are allowed or not allowed during troubleshooting.
 
 **2. Why is the human required to execute the recovery command?**
 
-Add your answer here.
-
----
+The workflow focuses on observation and diagnosis first. Claude should recommend the safest recovery action, while changes such as restarting or stopping services should only happen when recovery is explicitly required.
 
 **3. Which rule prevents Claude from making an unsupported diagnosis?**
 
-Add your answer here.
-
----
+The Output Rules require Claude to state the likely root cause only when there is enough evidence and include the evidence used to support the diagnosis.
 
 # Task 3 — Use Agentic AI to Plan Before Writing the Script
 
