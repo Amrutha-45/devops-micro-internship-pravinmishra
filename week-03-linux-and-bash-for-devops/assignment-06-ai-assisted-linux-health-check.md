@@ -35,21 +35,15 @@ Answer the following in your own words:
 
 **1. What proves that Nginx is running?**
 
-Add your answer here.
-
----
+The command systemctl is-active nginx returned active, which proves that the Nginx service is currently running.
 
 **2. What proves that the server is listening for HTTP traffic?**
 
-Add your answer here.
-
----
+The command ss -ltn | grep ':80' showed that Nginx is listening on port 80, which is the HTTP port.
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
-Add your answer here.
-
----
+A healthy baseline gives us a reference point. After simulating an incident, we can compare the new results with the baseline to identify what changed and confirm whether the problem was fixed.
 
 # Task 2 — Create Project Context and Safety Rules in CLAUDE.md
 
