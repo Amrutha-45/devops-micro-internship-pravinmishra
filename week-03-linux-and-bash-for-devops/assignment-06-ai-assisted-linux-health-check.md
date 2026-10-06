@@ -113,27 +113,23 @@ Create one Bash script that gathers consistent Linux and Nginx health evidence.
 
 #### Screenshot 5 — Top section of `linux-triage.sh` showing variables, thresholds, and the checks array
 
-Add your screenshot here.
+<img width="768" height="387" alt="Screenshot 2026-10-06 065547" src="https://github.com/user-attachments/assets/a3d37a0d-0d4f-4a4d-a46b-b3fc69bee0ae" />
 
----
 
 #### Screenshot 6 — Middle section showing check functions and conditionals
 
-Add your screenshot here.
+<img width="897" height="963" alt="Screenshot 2026-10-06 065919" src="https://github.com/user-attachments/assets/187c10d8-7414-45de-8c48-65a49f7f107f" />
 
----
 
 #### Screenshot 7 — Bottom section showing the loop, summary function, and exit behavior
 
-Add your screenshot here.
+<img width="857" height="966" alt="Screenshot 2026-10-06 070300" src="https://github.com/user-attachments/assets/a5c75e03-0088-4b9d-9b0a-6b5937e2c2e7" />
 
----
 
 #### Screenshot 8 — Output of `bash -n scripts/linux-triage.sh` (no syntax errors) and `ls -l scripts/linux-triage.sh` showing executable permission
 
-Add your screenshot here.
+<img width="820" height="108" alt="Screenshot 2026-10-06 070516" src="https://github.com/user-attachments/assets/c2df4b8f-c34e-414b-a409-168cdde7c215" />
 
----
 
 ### Notes
 
@@ -141,33 +137,24 @@ Answer the following in your own words:
 
 **1. What is stored in the checks array?**
 
-Add your answer here.
-
----
+The checks array stores the names of the five health-check functions:
+nginx_service, port_80, http_response, disk_usage, and memory_usage.
 
 **2. How does the `for` loop use that array?**
 
-Add your answer here.
-
----
+The for loop goes through each item in the checks array one by one. The case statement then matches each item to its corresponding health-check function and runs it.
 
 **3. Why are the health checks separated into functions?**
 
-Add your answer here.
-
----
+Separating the checks into functions makes the script organized, reusable, and easier to maintain. Each function handles one specific health check.
 
 **4. What is the purpose of `$(...)` in this script?**
 
-Add your answer here.
-
----
+$(...) is command substitution. It runs a command and stores its output so it can be used as a value in the script. For example, the HTTP status returned by curl is stored in a variable.
 
 **5. Why does the script use different exit codes for HEALTHY, WARN, and FAIL?**
 
-Add your answer here.
-
----
+Different exit codes allow other scripts or automation tools to understand the health status of the system. They can distinguish between a healthy result, a warning condition, and a failure and respond accordingly
 
 # Task 5 — Run and Understand the Healthy-State Report
 
@@ -179,15 +166,13 @@ Run the Bash script against the healthy server and verify that it creates a repo
 
 #### Screenshot 9 — Output of `./scripts/linux-triage.sh` showing your Full Name and all five check results
 
-Add your screenshot here.
+<img width="720" height="237" alt="Screenshot 2026-10-06 070903" src="https://github.com/user-attachments/assets/a8919ad8-6915-4c53-ae93-e523e28ea5e4" />
 
----
 
 #### Screenshot 10 — Output showing the captured exit code and final summary
 
-Add your screenshot here.
+<img width="688" height="302" alt="Screenshot 2026-10-06 071112" src="https://github.com/user-attachments/assets/7c2a90fe-21d8-4995-94dd-0546c5447020" />
 
----
 
 ### Notes
 
@@ -195,27 +180,26 @@ Answer the following in your own words:
 
 **1. What is the overall status of your healthy baseline?**
 
-Add your answer here.
-
----
+The healthy baseline is HEALTHY. Nginx is active, port 80 is listening, localhost returns an HTTP 200 response, disk usage is low, and sufficient memory is available
 
 **2. Which exact Linux evidence proves the application is serving traffic?**
 
-Add your answer here.
+The strongest evidence is:
+HTTP/1.1 200 OK
+Server: nginx/1.24.0 (Ubuntu)
 
----
+from:
+curl -I http://localhost
+
+This proves that Nginx is responding successfully to HTTP requests.
 
 **3. Did your script return exit code 0 or 1? Explain why.**
 
-Add your answer here.
-
----
+For the healthy baseline, the script returned exit code 0 because all the health checks completed successfully and no failure was detected.
 
 **4. What is the difference between a warning and a failure in this script?**
 
-Add your answer here.
-
----
+A warning indicates that a resource is approaching its configured threshold but the service may still be functioning. A failure indicates that an important health check has failed, such as Nginx being inactive or the HTTP response not being successful.
 
 # Task 6 — Create and Run the /linux-triage Skill
 
