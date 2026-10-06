@@ -124,7 +124,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/amruthabandi_devops-devopslearning-dmi-activity-7504904494137344000-uG3m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPDVrQBiRgPYVYtuI7TM3YhAKe2kcrI21o | https://medium.com/@bandiamrutha45/my-week-0-devops-journey-understanding-the-internet-networking-355f6f5b0978?postPublishedType=initial |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/amruthabandi_dmi-devops-micro-internship-with-agentic-activity-7505541327820931072-81mK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPDVrQBiRgPYVYtuI7TM3YhAKe2kcrI21o | https://medium.com/@bandiamrutha45/week-01-success-mindset-building-my-mindset-os-2f6b5c590f34 |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/feed/update/urn:li:activity:7509492607018840064/ | https://medium.com/@bandiamrutha45/reflection-week-2-c0050527a3c9?postPublishedType=initial |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | https://medium.com/@bandiamrutha45/week-3-completed-my-devops-micro-internship-with-agentic-ai-150a913a7ed3 |
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/feed/update/urn:li:activity:7513258928139296769/ | https://medium.com/@bandiamrutha45/week-3-completed-my-devops-micro-internship-with-agentic-ai-150a913a7ed3 |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
