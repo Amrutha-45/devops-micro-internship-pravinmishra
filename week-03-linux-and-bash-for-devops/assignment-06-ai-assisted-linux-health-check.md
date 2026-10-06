@@ -401,15 +401,12 @@ Verify → Nginx, port 80, HTTP, disk, and memory were checked again to confirm 
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
-
----
+https://www.linkedin.com/feed/update/urn:li:activity:7513253173256552448/
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (206)" src="https://github.com/user-attachments/assets/fd283b79-8ae1-40ef-81a4-7e1014f5b436" />
 
----
 
 # GitHub Repository URL
 
