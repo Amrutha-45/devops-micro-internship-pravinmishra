@@ -412,9 +412,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7513253173256552448/
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
-`Add your URL here`
-
----
+https://github.com/Amrutha-45/devops-micro-internship-pravinmishra/tree/main/dmi-week3-assignment6
 
 # Submission Instructions
 
