@@ -171,7 +171,8 @@ Run the Bash script against the healthy server and verify that it creates a repo
 
 #### Screenshot 10 — Output showing the captured exit code and final summary
 
-<img width="688" height="302" alt="Screenshot 2026-10-06 071112" src="https://github.com/user-attachments/assets/7c2a90fe-21d8-4995-94dd-0546c5447020" />
+S<img width="695" height="262" alt="Screenshot 2026-10-06 071552" src="https://github.com/user-attachments/assets/7f8e542e-ddbb-4ce6-8fdc-e253c67d655b" />
+
 
 
 ### Notes
@@ -211,15 +212,13 @@ Turn the Bash script into a reusable, manually invoked Agentic AI workflow.
 
 #### Screenshot 11 — `SKILL.md` showing the frontmatter, allowed tool restrictions, and safety rules
 
-Add your screenshot here.
+<img width="863" height="742" alt="Screenshot 2026-10-06 071741" src="https://github.com/user-attachments/assets/211b22ec-5589-4828-b001-c2272bd4310c" />
 
----
 
 #### Screenshot 12 — `/linux-triage` output for the healthy server
 
-Add your screenshot here.
+<img width="1312" height="1199" alt="W3A6SS12" src="https://github.com/user-attachments/assets/fcd212ea-6593-4879-ac6e-efbeed3c592c" />
 
----
 
 ### Notes
 
@@ -227,27 +226,19 @@ Answer the following in your own words:
 
 **1. Why does this skill have Bash, Read, and Grep, but not Write?**
 
-Add your answer here.
-
----
+The skill is designed for read-only investigation. Bash is used to run health-check commands, while Read and Grep can inspect existing files and search for relevant information. Write is not included because the skill should not modify files during diagnosis.
 
 **2. Why is `disable-model-invocation: true` useful for this skill?**
 
-Add your answer here.
-
----
+It prevents Claude from automatically invoking the skill on its own. The skill runs only when the user explicitly requests it, giving the user more control over when the diagnostic workflow is performed.
 
 **3. What part is performed by Bash, and what part is performed by Claude?**
 
-Add your answer here.
-
----
+Bash performs the actual Linux health checks and collects evidence from the system. Claude interprets the collected evidence, identifies patterns or possible problems, and explains the overall health status.
 
 **4. Why is this better than asking Claude "Is my server healthy?" without giving it evidence?**
 
-Add your answer here.
-
----
+It is better because Claude receives actual system evidence instead of guessing. The Bash checks provide measurable information about Nginx, port 80, HTTP response, disk usage, and memory, allowing Claude to make a more reliable diagnosis.
 
 # Task 7 — Simulate an Nginx Incident and Let the Skill Diagnose It
 
@@ -259,21 +250,18 @@ Create a controlled service failure, gather evidence through Bash, and let Claud
 
 #### Screenshot 13 — Output showing Nginx is inactive and the HTTP request fails
 
-Add your screenshot here.
+<img width="830" height="142" alt="Screenshot 2026-10-06 072545" src="https://github.com/user-attachments/assets/75513a67-e3b7-46c9-bc69-ddd7677fbb9b" />
 
----
 
 #### Screenshot 14 — `/linux-triage` output showing failed evidence, most likely cause, and a suggested recovery command
 
-Add your screenshot here.
+<img width="1312" height="1199" alt="W3A6SS14" src="https://github.com/user-attachments/assets/333423b4-cd1b-4253-a941-c8b0745139b9" />
 
----
 
 #### Screenshot 15 — `incident-failure-report.txt` showing the failed checks and your Full Name
 
-Add your screenshot here.
+<img width="837" height="550" alt="Screenshot 2026-10-06 074044" src="https://github.com/user-attachments/assets/6fe73ca8-d130-474f-aea0-b881a9c3d23b" />
 
----
 
 ### Notes
 
@@ -281,33 +269,33 @@ Answer the following in your own words:
 
 **1. Which three checks failed?**
 
-Add your answer here.
-
----
+The three failed checks were:
+- Nginx service — Nginx was inactive.
+- Port 80 — Port 80 was not listening.
+- HTTP response — The HTTP request to http://localhost failed.
 
 **2. What evidence supports the conclusion that Nginx is unavailable?**
 
-Add your answer here.
-
----
+The evidence was:
+- systemctl is-active nginx showed inactive.
+- Port 80 was not listening.
+- curl -I http://localhost failed to connect.
+Together, these results show that Nginx was unavailable.
 
 **3. Did Claude execute the recovery command? Why is that important?**
 
-Add your answer here.
+No. Claude only suggested the recovery command:
+sudo systemctl start nginx
 
----
+It did not execute it. This is important because the triage process should diagnose and explain the incident before making changes, keeping recovery under human control.
 
 **4. Which phase of the Agentic Loop is represented by the Bash report?**
 
-Add your answer here.
-
----
+The Bash report represents the Observe / Gather Evidence phase because it collects the actual system health information and failed-check results.
 
 **5. Which phase is represented by Claude's explanation?**
 
-Add your answer here.
-
----
+Claude's explanation represents the Reason / Analyze phase because it interprets the collected evidence, identifies the most likely cause, and suggests a recovery action.
 
 # Task 8 — Recover Manually, Verify Again, and Write the Incident Summary
 
@@ -319,27 +307,23 @@ Recover the service as the human operator and prove that the system is healthy a
 
 #### Screenshot 16 — Output showing Nginx is active and `curl -I http://localhost` returns 200 OK
 
-Add your screenshot here.
+<img width="732" height="237" alt="Screenshot 2026-10-06 074551" src="https://github.com/user-attachments/assets/a7723b6c-3795-4029-a737-5237409640e0" />
 
----
 
 #### Screenshot 17 — Second `/linux-triage` output showing successful recovery with no FAIL results
 
-Add your screenshot here.
+<img width="1448" height="1086" alt="W3A6SS16" src="https://github.com/user-attachments/assets/0ce41532-7d58-472c-8276-618dc40117bd" />
 
----
 
 #### Screenshot 18 — Output of `ls -lah reports` showing both `incident-failure-report.txt` and `recovery-report.txt`
 
-Add your screenshot here.
+<img width="778" height="141" alt="Screenshot 2026-10-06 075609" src="https://github.com/user-attachments/assets/a2e6dc13-29a7-442d-bf12-2225c11ab4b6" />
 
----
 
 #### Screenshot 19 — `incident-summary.md` showing all required sections and your Full Name
 
-Add your screenshot here.
+<img width="816" height="911" alt="Screenshot 2026-10-06 081135" src="https://github.com/user-attachments/assets/471a7e2d-b73a-4ddc-8eb1-ea217eebe2ce" />
 
----
 
 ### Notes
 
@@ -347,33 +331,24 @@ Answer the following in your own words:
 
 **1. What action did you execute manually?**
 
-Add your answer here.
-
----
+I manually executed the recovery command:
+sudo systemctl start nginx
 
 **2. What evidence proves that the service recovered?**
 
-Add your answer here.
-
----
+The evidence is that Nginx became active, port 80 was listening, and curl -I http://localhost returned HTTP/1.1 200 OK.
 
 **3. Why is the second triage run necessary?**
 
-Add your answer here.
-
----
+The second triage run is necessary to verify that the recovery action actually fixed the incident and that all health checks are passing again.
 
 **4. What could go wrong if an AI agent automatically restarted every failed service?**
 
-Add your answer here.
-
----
+It could restart a service unnecessarily, interrupt active users or applications, hide the real problem, or cause further system issues without human approval.
 
 **5. In one sentence, explain the difference between using AI as a chatbot and using AI in this agentic workflow.**
 
-Add your answer here.
-
----
+A chatbot mainly provides answers, while an agentic workflow uses AI to observe evidence, reason about the problem, plan an action, and verify the result.
 
 # Incident Summary
 
