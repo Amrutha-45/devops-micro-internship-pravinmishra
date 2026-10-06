@@ -354,53 +354,44 @@ A chatbot mainly provides answers, while an agentic workflow uses AI to observe 
 
 Fill in all seven sections below in your own words.
 
-**Full Name:** Add your full name here
+**Full Name:** Amrutha Bandi
 
-**Date:** DD/MM/YYYY
+**Date:** 06/10/2026
 
 ---
 
 **1. Reported Symptom**
 
-Add your answer here.
-
----
+The Nginx service became unavailable, causing the local website to stop responding to HTTP requests.
 
 **2. Evidence Collected**
 
-Add your answer here.
-
----
+The triage checks showed that Nginx was inactive, port 80 was not listening, and curl -I http://localhost failed to connect. Disk and memory usage remained within acceptable limits.
 
 **3. Most Likely Cause**
 
-Add your answer here.
-
----
+The most likely cause was that the Nginx service had been stopped, which caused port 80 to stop listening and the local HTTP request to fail.
 
 **4. Human-Approved Recovery Action**
 
-Add your answer here.
-
----
+After the failure was diagnosed, I manually executed:
+sudo systemctl start nginx
 
 **5. Verification**
 
-Add your answer here.
-
----
+After recovery, Nginx was active, port 80 was listening, and curl -I http://localhost returned HTTP/1.1 200 OK. A second triage run confirmed that the health checks passed.
 
 **6. Safety Decision**
 
-Add your answer here.
-
----
+The AI was used for observation, analysis, and suggesting the recovery action. The recovery command was executed manually so that the human remained in control of the system-changing action.
 
 **7. Agentic Loop Mapping**
 
-Add your answer here.
-
----
+Observe → Bash triage collected system health evidence.
+Reason → Claude analyzed the failed checks and identified the likely cause.
+Plan → Claude suggested sudo systemctl start nginx.
+Act → I manually executed the recovery command.
+Verify → Nginx, port 80, HTTP, disk, and memory were checked again to confirm recovery.
 
 # LinkedIn Post (Required)
 
