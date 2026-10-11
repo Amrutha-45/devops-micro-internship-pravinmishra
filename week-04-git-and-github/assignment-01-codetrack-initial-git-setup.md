@@ -25,17 +25,14 @@ Create a `CodeTrack` project folder and initialize it as a Git repository.
 
 #### Screenshot 2 — Output of `ls -a` showing the `.git` folder
 
-Add your screenshot here.
+<img width="472" height="77" alt="Screenshot 2026-10-11 074338" src="https://github.com/user-attachments/assets/025848e9-026b-4fc3-bbc2-5194478860ab" />
 
----
 
 ### Notes
 
 **1. What is the `.git` folder, and why does it matter?**
 
-Add your answer here.
-
----
+The `.git` folder is a hidden directory created when we initialize a Git repository. It stores important information such as commit history, configuration, branches, and other data needed for version control. It allows Git to track changes in the project, maintain different versions of the code, and help us manage our work efficiently.
 
 # Task 2 — Configure Git Identity Locally (Repository-Only)
 
