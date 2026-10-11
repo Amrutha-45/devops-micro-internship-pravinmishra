@@ -20,9 +20,8 @@ Create a `CodeTrack` project folder and initialize it as a Git repository.
 
 #### Screenshot 1 — Output of `git init` inside `CodeTrack` showing "Initialized empty Git repository"
 
-Add your screenshot here.
+<img width="1911" height="1005" alt="Screenshot 2026-10-11 070925" src="https://github.com/user-attachments/assets/c44f4c93-c212-4fb4-b28e-3083b0df3887" />
 
----
 
 #### Screenshot 2 — Output of `ls -a` showing the `.git` folder
 
