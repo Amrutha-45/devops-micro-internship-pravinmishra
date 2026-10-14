@@ -69,9 +69,9 @@ Confirm both files show as untracked, then stage them individually with `git add
 
 #### Screenshot 6 — Output of `git status` showing both files staged under "Changes to be committed"
 
-Add your screenshot here.
+<img width="480" height="247" alt="Screenshot 2026-10-14 194145" src="https://github.com/user-attachments/assets/b639e326-cc16-4dd1-b209-22d905cf3d95" />
 
----
+
 
 # Task 5 — Create the First Commit (Clean Initial Commit)
 
@@ -83,15 +83,14 @@ Commit the staged starter files using the message `Initial UI scaffold: add inde
 
 #### Screenshot 7 — Output of `git commit`
 
-Add your screenshot here.
+<img width="645" height="212" alt="Screenshot 2026-10-14 194431" src="https://github.com/user-attachments/assets/1631d2f1-97a2-4861-bf2b-165c07638d33" />
 
----
+
 
 #### Screenshot 8 — Output of `git log --oneline` showing the first commit
 
-Add your screenshot here.
+<img width="642" height="115" alt="Screenshot 2026-10-14 194514" src="https://github.com/user-attachments/assets/ba5fbc95-94a4-4062-8e65-accd745b4019" />
 
----
 
 # Task 6 — Modify index.html and Create a Second Commit
 
