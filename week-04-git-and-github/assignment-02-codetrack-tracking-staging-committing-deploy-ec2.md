@@ -102,27 +102,23 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 9 — Browser showing the updated page with your Student Name and Group Name visible
 
-Add your screenshot here.
+<img width="933" height="927" alt="Screenshot 2026-10-14 195340" src="https://github.com/user-attachments/assets/a3eca490-ab10-4f8d-8f31-49d53f1d289f" />
 
----
 
 #### Screenshot 10 — Output of `git status` showing `index.html` as modified
 
-Add your screenshot here.
+<img width="605" height="255" alt="Screenshot 2026-10-14 195447" src="https://github.com/user-attachments/assets/095e4f06-c7ea-4b26-b36e-27eb24f801e3" />
 
----
 
 #### Screenshot 11 — Output of `git commit`
 
-Add your screenshot here.
+<img width="586" height="165" alt="Screenshot 2026-10-14 195611" src="https://github.com/user-attachments/assets/c7fc3020-186b-499f-8b0a-34f6282f3af6" />
 
----
 
 #### Screenshot 12 — Output of `git log --oneline` showing two commits
 
-Add your screenshot here.
+<img width="555" height="140" alt="Screenshot 2026-10-14 195729" src="https://github.com/user-attachments/assets/834452b7-4506-4df8-96fe-50e1ba33234e" />
 
----
 
 # Task 7 — Deploy to EC2 with Nginx (Static Website)
 
