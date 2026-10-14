@@ -20,15 +20,13 @@ Confirm that Git works and that you are inside the correct `CodeTrack` repositor
 
 #### Screenshot 1 — Output of `pwd` showing you're inside `CodeTrack`
 
-Add your screenshot here.
+<img width="652" height="71" alt="Screenshot 2026-10-14 054858" src="https://github.com/user-attachments/assets/3098feed-662e-4053-9e39-fb51da9200c0" />
 
----
 
 #### Screenshot 2 — Output of `git status` showing no "not a git repository" error
 
-Add your screenshot here.
+<img width="847" height="180" alt="Screenshot 2026-10-14 055010" src="https://github.com/user-attachments/assets/17d53e62-9f99-4aba-9384-d32d31958c84" />
 
----
 
 # Task 2 — Create index.html and style.css
 
@@ -40,9 +38,8 @@ Create the two starter UI files inside `CodeTrack`.
 
 #### Screenshot 3 — Output of `ls` showing `index.html` and `style.css`
 
-Add your screenshot here.
+<img width="817" height="105" alt="Screenshot 2026-10-14 055112" src="https://github.com/user-attachments/assets/d791149a-24f0-4e29-ac44-14e1edbe5b10" />
 
----
 
 # Task 3 — Add Starter Content
 
@@ -54,9 +51,8 @@ Copy the provided starter HTML and CSS content into your local `index.html` and 
 
 #### Screenshot 4 — Your editor showing the contents of `index.html` and `style.css`
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/9476ef77-891e-457c-999e-e2f00ac3333b" />
 
----
 
 # Task 4 — Track and Stage Files Correctly
 
