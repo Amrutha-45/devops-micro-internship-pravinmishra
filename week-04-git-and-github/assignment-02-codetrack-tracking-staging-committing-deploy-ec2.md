@@ -64,9 +64,8 @@ Confirm both files show as untracked, then stage them individually with `git add
 
 #### Screenshot 5 — Output of `git status` showing both files as untracked
 
-Add your screenshot here.
+<img width="491" height="327" alt="Screenshot 2026-10-14 193809" src="https://github.com/user-attachments/assets/987af910-0029-4ec8-af16-73b3b9b48c8b" />
 
----
 
 #### Screenshot 6 — Output of `git status` showing both files staged under "Changes to be committed"
 
