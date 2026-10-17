@@ -141,9 +141,8 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 15 — Browser showing the CodeTrack site loaded at `http://<EC2_PUBLIC_IP>`, with your Full Name and Group Name visible
 
-Add your screenshot here.
+<img width="933" height="927" alt="Screenshot 2026-10-14 195340" src="https://github.com/user-attachments/assets/6724cb20-eab9-4ce8-98f6-dc94a26b7305" />
 
----
 
 # LinkedIn Post (Required)
 
@@ -153,15 +152,12 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
-
----
+https://www.linkedin.com/feed/update/urn:li:activity:7517089457141985280/
 
 #### Screenshot — LinkedIn post showing the deployed CodeTrack application
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3cd61ae6-b46e-4a78-b1e1-0ded242ace12" />
 
----
 
 # Submission Instructions
 
