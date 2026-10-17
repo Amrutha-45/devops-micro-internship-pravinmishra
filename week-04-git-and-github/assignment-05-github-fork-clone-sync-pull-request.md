@@ -20,9 +20,8 @@ Fork `pravinmishraaws/devops-micro-internship-interviews` into your own GitHub a
 
 #### Screenshot 1 — Your fork page with your username and `devops-micro-internship-interviews` visible in the browser URL
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ceed5f7-d3e1-4924-bf9a-16fa7acc3ea4" />
 
----
 
 # Task 1 — Authenticate GitHub from the Terminal
 
@@ -34,9 +33,8 @@ Configure one authentication method — HTTPS with a Personal Access Token, or S
 
 #### Screenshot 2 — Output of `git config --global --get credential.helper` (HTTPS) or `ssh -T git@github.com` (SSH) showing successful authentication — never show your token or private key
 
-Add your screenshot here.
+<img width="1050" height="65" alt="image" src="https://github.com/user-attachments/assets/d5a759be-d607-40c0-8aa8-215a0a823590" />
 
----
 
 # Task 2 — Clone Your Fork and Configure Remotes
 
@@ -48,9 +46,8 @@ Clone your fork locally, then add the original repository as `upstream`.
 
 #### Screenshot 3 — Output of `git remote -v` showing `origin` pointing to your fork and `upstream` pointing to `pravinmishraaws/devops-micro-internship-interviews`
 
-Add your screenshot here.
+<img width="925" height="153" alt="image" src="https://github.com/user-attachments/assets/529b9eaa-7674-4ef8-9c30-69bf3d1fb079" />
 
----
 
 # Task 3 — Create a Feature Branch and Make Your Change
 
@@ -62,15 +59,13 @@ Create the branch `feature-readme-update`, add only your own entry (`Full Name �
 
 #### Screenshot 4 — Output of `git status` showing `pull_request.md` modified before staging
 
-Add your screenshot here.
+<img width="900" height="182" alt="image" src="https://github.com/user-attachments/assets/77891471-181c-437a-bf0c-63041398044f" />
 
----
 
 #### Screenshot 5 — Output of `git commit`
 
-Add your screenshot here.
+<img width="945" height="135" alt="image" src="https://github.com/user-attachments/assets/cdabfd22-db26-4256-be35-42401f2e5b11" />
 
----
 
 # Task 4 — Synchronize with Upstream and Push to Your Fork
 
@@ -82,15 +77,13 @@ Fetch and merge `upstream/main` into your local default branch, rebase your feat
 
 #### Screenshot 6 — Output of `git push -u origin feature-readme-update` showing a successful push
 
-Add your screenshot here.
+<img width="932" height="370" alt="image" src="https://github.com/user-attachments/assets/d7a19043-0f0c-4a31-8cb3-e2d0e30de329" />
 
----
 
 #### Screenshot 7 — Your fork on GitHub showing `feature-readme-update` in the branch selector or a "Compare & pull request" banner
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/437fe363-fc63-452a-9ab2-3f64c730f667" />
 
----
 
 # Task 5 — Create a Pull Request to Upstream
 
@@ -102,23 +95,19 @@ Open a Pull Request from `feature-readme-update` on your fork to `main` on the u
 
 #### Screenshot 8 — Pull Request creation page showing the correct base repository, base branch, head repository, compare branch, and title
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9f7ccec-3d43-43ce-bcac-b8a21edd4085" />
 
----
 
 #### Screenshot 9 — Successfully created Pull Request page with the PR number visible
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b67f4b4-9a89-4d97-a886-f7973a7adc9c" />
 
----
 
 #### Pull Request URL
 
 Paste your Pull Request URL here:
 
-`Add your URL here`
-
----
+https://github.com/pravinmishraaws/devops-micro-internship-interviews/pull/499
 
 # LinkedIn Post (Required)
 
@@ -128,15 +117,12 @@ Paste your Pull Request URL here:
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
-
----
+https://www.linkedin.com/feed/update/urn:li:activity:7517235962385670144/
 
 #### Screenshot — LinkedIn post showing your successfully created Pull Request
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f7a6f20-aeee-4be4-9771-466baadc8578" />
 
----
 
 # Submission Instructions
 
@@ -151,9 +137,7 @@ Add your screenshot here.
 
 Paste your fork URL here:
 
-`Add your URL here`
-
----
+https://github.com/Amrutha-45/devops-micro-internship-interviews
 
 # Completion Checklist
 
