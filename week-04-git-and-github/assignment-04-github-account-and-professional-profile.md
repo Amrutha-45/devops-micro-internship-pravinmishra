@@ -48,9 +48,8 @@ Browse Trending, search for a public project, star at least one repository, and 
 
 #### Screenshot 5 — Your forked repository page with your username and repository name visible in the URL
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8a5552b-2a53-4071-8d19-18bc7aff2e1c" />
 
----
 
 # Task 3 — Update Your GitHub Profile (Professional Setup)
 
