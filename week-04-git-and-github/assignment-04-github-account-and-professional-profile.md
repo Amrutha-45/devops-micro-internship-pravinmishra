@@ -38,15 +38,13 @@ Browse Trending, search for a public project, star at least one repository, and 
 
 #### Screenshot 3 — GitHub Trending page visible in the browser
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b4f8e10-48d1-4e90-8c16-cf5698d566ca" />
 
----
 
 #### Screenshot 4 — A repository page showing the Star button in the Starred state
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/313b8ae8-49cd-42f8-8ee7-fdf756d9d8d2" />
 
----
 
 #### Screenshot 5 — Your forked repository page with your username and repository name visible in the URL
 
