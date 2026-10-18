@@ -27,17 +27,14 @@ Confirm you are working in your own fork, then create a dedicated branch for thi
 
 #### Screenshot 1 — Output of git remote -v and git branch showing the new branch
 
-Add your screenshot here.
+<img width="621" height="350" alt="image" src="https://github.com/user-attachments/assets/f5176ecb-5e3f-4888-8f88-727fd232e304" />
 
----
 
 ### Notes
 
 **1. Why create a dedicated branch instead of doing this work on main?**
 
-Add your answer here.
-
----
+A dedicated branch keeps my assignment changes separate from the main branch. It allows me to test the pre-commit hook, fix issues, and review my work safely without affecting the main branch.
 
 # Task 1 — Stage a Change With Realistic Risk
 
@@ -49,17 +46,14 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 
 #### Screenshot 1 — Output of  `git status` showing the staged file on feature/ai-pr-ready
 
-Add your screenshot here.
+<img width="535" height="173" alt="image" src="https://github.com/user-attachments/assets/2a2d46ec-fa01-4014-bd19-1be8b48dbb5f" />
 
----
 
 ### Notes
 
 **1. Why does this assignment use an obviously fake key instead of a real one?**
 
-Add your answer here.
-
----
+The assignment uses an obviously fake key to safely test whether the pre-commit hook can detect secret-like patterns without exposing real credentials. Using a real key could compromise security and lead to unauthorized access or misuse.
 
 # Task 2 — Write a Real Git Pre-Commit Hook
 
@@ -71,29 +65,23 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 #### Screenshot 2 — `hooks/pre-commit` open in VS Code showing the full script
 
-Add your screenshot here.
+<img width="587" height="301" alt="image" src="https://github.com/user-attachments/assets/721b2a5e-5555-46df-b13f-37c42020646d" />
 
----
 
 #### Screenshot 3 — Output of `git config core.hooksPath` confirming it points to `hooks`
 
-Add your screenshot here.
+<img width="667" height="123" alt="image" src="https://github.com/user-attachments/assets/a2877309-b8fb-4a55-85e4-13c5fb2892a9" />
 
----
 
 ### Notes
 
 **1. Why is `hooks/pre-commit` tracked in the repo instead of living only in `.git/hooks/`?**
 
-Add your answer here.
-
----
+Tracking hooks/pre-commit in the repository makes the hook shareable, version-controlled, and available to other contributors. Files in .git/hooks/ are local to one clone and are not included in normal Git commits, so other contributors would not automatically receive the same safety checks.
 
 **2. Compare this to `PreToolUse` from Week 2 Assignment 6. What does each one intercept, and what do they have in common?**
 
-Add your answer here.
-
----
+PreToolUse in Claude Code intercepts a tool call before it executes, allowing dangerous actions to be blocked in advance. A Git pre-commit hook intercepts a commit before it is created and checks staged changes for issues such as secret-like patterns or oversized files. Both act as preventive safety gates that enforce rules before an action happens.
 
 # Task 3 — Prove the Hook Blocks the Risky Commit
 
@@ -105,23 +93,18 @@ Attempt to commit the staged file from Task 1 and show the hook rejecting it.
 
 #### Screenshot 4 — Terminal showing `git commit` rejected with the hook's "BLOCKED" message naming the exact file
 
-Add your screenshot here.
+<img width="607" height="172" alt="image" src="https://github.com/user-attachments/assets/35cc7e34-974c-42df-96fd-ba645f8b59ad" />
 
----
 
 ### Notes
 
 **1. Which line in `hooks/pre-commit` matched your fake key, and why did it match?**
 
-Add your answer here.
-
----
+The pattern AKIA[0-9A-Z]{16} matched the fake key because it starts with AKIA followed by 16 uppercase letters or digits. The hook recognized this AWS-style access key pattern and blocked the commit.
 
 **2. Could this hook have caught a poorly-named variable that stores a secret without the `AKIA` prefix? What does that tell you about the limits of a fixed rule like this?**
 
-Add your answer here.
-
----
+The hook might not catch a secret without the AKIA prefix if it doesn't match any of the defined patterns. This shows that fixed rules are consistent and predictable but cannot detect every possible secret format, so additional tools and human review are important.
 
 # Task 4 — Build the `/pr-ready` Skill
 
@@ -133,9 +116,8 @@ Create a manually invoked Claude Code skill that reads your staged changes and p
 
 #### Screenshot 5 — `SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no `Write`) and `disable-model-invocation: true`
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/de2f652a-44b3-4f07-a744-56bcbab6c472" />
 
----
 
 #### Screenshot 6 — `/pr-ready` output while the risky file is still staged, showing it flagged the secret and/or debug statement
 
