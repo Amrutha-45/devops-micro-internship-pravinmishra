@@ -170,35 +170,26 @@ Push your branch and open a real Pull Request, using `/pr-ready`'s drafted title
 
 #### Screenshot 9 — Your Pull Request showing the base repository is your own fork, plus the title and description, with the `/pr-ready` draft visible for comparison (paste it in the PR conversation or your notes below)
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1e08512-138b-4ca0-a86c-09d7448586e9" />
 
----
 
 #### PR Link
 
-Add your PR URL here...
-
----
+https://github.com/Amrutha-45/CodeTrack/pull/1?utm_source=chatgpt.com
 
 ### Notes
 
 **1. What, if anything, did you edit in the AI's drafted PR description before using it? Why?**
 
-Add your answer here.
-
----
+I reviewed the AI-generated draft and edited the description to accurately reflect the changes made, the validation performed, and the remaining limitations. I ensured that I did not claim the Claude Code /pr-ready review had succeeded because it was blocked by a credit limitation. This made the PR description more accurate and transparent.
 
 **2. If you had blindly copy-pasted the AI's draft without reading it, what could go wrong?**
 
-Add your answer here.
-
----
+The AI might include incorrect claims, overlook security risks, or state that tests and reviews passed when they were never completed. It could also suggest an unsuitable title or description that misrepresents the changes. Reviewing the draft helps me catch errors and remain responsible for the final PR.
 
 **3. Why does this PR need to target your own fork instead of the shared upstream repository?**
 
-Add your answer here.
-
----
+This PR contains my practice work for the assignment, including the PR-readiness skill and pre-commit safety hook. Targeting my own fork, Amrutha-45/CodeTrack, keeps these experimental changes separate from the shared upstream repository, pravinmishraaws/devops-micro-internship-pravinmishra, and prevents accidental changes to the class project.
 
 # Task 7 — Map the Workflow to the Agentic Loop
 
@@ -210,33 +201,23 @@ Explain this assignment's workflow using the same Gather → Analyze → Human A
 
 **1. Which step(s) represent Gather?**
 
-Add your answer here.
-
----
+Gather is the step where I used Git commands to inspect the repository status, staged changes, and branch diff using commands such as git status --short, git diff --cached, and git diff master...HEAD. These commands collected the information needed to review the changes.
 
 **2. Which step(s) represent Analyze?**
 
-Add your answer here.
-
----
+Analyze is the step where I used the pre-commit hook and AI-assisted review to identify secret-like patterns, debug statements, whitespace errors, and potential risks. The hook applied fixed rules, while the AI review provided contextual feedback and suggested improvements.
 
 **3. Which step is Human Act, and why must a human — not Claude — run `git commit`, `git push`, and open the PR?**
 
-Add your answer here.
-
----
+Human Act is the step where I reviewed the findings, corrected the files, ran the commit, pushed the feature branch, and opened the pull request. A human must control these actions to verify the changes, authorize modifications to the repository, and prevent unintended commits, pushes, or pull requests.
 
 **4. Which step is Verify?**
 
-Add your answer here.
-
----
+Verify is the step where I checked the hook's behavior, confirmed that the commit passed the pre-commit checks, reviewed whitespace and Bash syntax, and confirmed that the feature branch was pushed and the pull request was open. Verification helps ensure that the intended changes were applied, although it does not guarantee that every possible security issue has been detected.
 
 **5. In one or two sentences: why do you need *both* the fixed-rule pre-commit hook and the AI skill? Isn't one enough?**
 
-Add your answer here.
-
----
+The pre-commit hook consistently blocks specific issues, such as matching secret-like patterns and oversized staged files, before a commit is created. The AI skill can provide broader contextual analysis and recommendations, so using both offers complementary protection while still requiring human review.
 
 # Task 8 — LinkedIn Post
 
@@ -248,19 +229,17 @@ Publish a LinkedIn post summarizing what you built and what you learned about co
 
 #### LinkedIn Post URL
 
-Add your LinkedIn post URL here...
-
----
+https://www.linkedin.com/feed/update/urn:li:share:7518664738201886720/
 
 ## Key Learnings
 
-Add 3-5 bullet points on what you learned this week.
+1. Learned how Git pre-commit hooks can prevent commits containing secret-like patterns or oversized staged files.
+2. Understood why repository-tracked hooks are easier to share and maintain than local Git hooks.
+3. Learned how AI-assisted review can identify potential risks and help draft pull request descriptions.
+4. Practiced the Gather → Analyze → Human Act → Verify workflow while keeping important Git operations under human control.
+5. Understood that AI reviews and fixed-rule checks have limitations, so code changes must be verified before pushing or merging.
 
--
--
--
 
----
 
 # Submission Instructions
 
@@ -278,9 +257,7 @@ Add 3-5 bullet points on what you learned this week.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
-
----
+https://github.com/Amrutha-45/CodeTrack
 
 # Completion Checklist
 
