@@ -121,23 +121,18 @@ Create a manually invoked Claude Code skill that reads your staged changes and p
 
 #### Screenshot 6 — `/pr-ready` output while the risky file is still staged, showing it flagged the secret and/or debug statement
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b706d9f-1d79-40c4-bbeb-0d4c548db1d0" />
 
----
 
 ### Notes
 
 **1. Why does `/pr-ready` have `Bash` and `Read` but not `Write`?**
 
-Add your answer here.
-
----
+Bash allows /pr-ready to run read-only Git commands to inspect the repository and staged changes, while Read allows it to examine relevant files. The Write tool is excluded to prevent the skill from modifying or creating files. This keeps the review read-only and ensures that the developer remains in control of all changes.
 
 **2. The pre-commit hook and `/pr-ready` both looked at the same staged diff. Did they flag the same things? What did one catch that the other didn't?**
 
-Add your answer here.
-
----
+Both checks identified the fake AWS-style access key and the temporary debug statement. The pre-commit hook used predefined patterns to detect secret-like strings and block the commit, while /pr-ready provided contextual analysis, explaining why the findings were risky and recommending fixes. The hook enforces fixed rules consistently, whereas the AI review can explain concerns and suggest improvements. Neither approach guarantees that every possible security issue will be detected.
 
 # Task 5 — Fix the Issues and Re-Verify
 
@@ -149,23 +144,19 @@ Remove the secret and debug statement, then prove both gates now pass clean.
 
 #### Screenshot 7 — `git commit` succeeding after the fix (no BLOCKED message)
 
-Add your screenshot here.
+<img width="831" height="173" alt="image" src="https://github.com/user-attachments/assets/38e2bb9a-8629-48cd-8251-f3efd182317c" />
 
----
 
 #### Screenshot 8 — Second `/pr-ready` run showing a clean risk report and a drafted PR title + description
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/980371df-e9c3-42a2-b79e-5ca07d17e7fd" />
 
----
 
 ### Notes
 
 **1. What exactly did you change to satisfy the pre-commit hook?**
 
-Add your answer here.
-
----
+I fixed the trailing whitespace in .claude/skills/pr-ready/SKILL.md and updated hooks/pre-commit so it reports a secret-like pattern without printing the matched content. These changes improve code cleanliness and prevent potential credential disclosure in terminal or CI logs.
 
 # Task 6 — Push and Open a Pull Request Using the AI Draft
 
