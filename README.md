@@ -68,10 +68,7 @@ This is not a course. It is an internship-style program — real deployments, re
 **Your stack (uncomment each badge as you earn it):**
 
 
- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)  [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) ![Week 02 – Agentic AI](./badges/week-02.svg) ![Week 03 – Linux & Bash](./badges/week-03.svg)
-
-<!-- Week 04 → Git & GitHub -->
-<!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) -->
+ [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)[![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) ![Week 02 – Agentic AI](./badges/week-02.svg) ![Week 03 – Linux & Bash](./badges/week-03.svg)][![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/)
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
 <!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
@@ -125,7 +122,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/amruthabandi_dmi-devops-micro-internship-with-agentic-activity-7505541327820931072-81mK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPDVrQBiRgPYVYtuI7TM3YhAKe2kcrI21o | https://medium.com/@bandiamrutha45/week-01-success-mindset-building-my-mindset-os-2f6b5c590f34 |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/feed/update/urn:li:activity:7509492607018840064/ | https://medium.com/@bandiamrutha45/reflection-week-2-c0050527a3c9?postPublishedType=initial |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/feed/update/urn:li:activity:7513258928139296769/ | https://medium.com/@bandiamrutha45/week-3-completed-my-devops-micro-internship-with-agentic-ai-150a913a7ed3 |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://lnkd.in/p/dfr-Na6n | https://medium.com/@varunbadri2028/week-4-of-my-devops-micro-internship-learning-bash-automation-with-linux-afcd19b97d91 |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
