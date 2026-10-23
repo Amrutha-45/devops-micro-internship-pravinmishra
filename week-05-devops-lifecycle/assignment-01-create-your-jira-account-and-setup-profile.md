@@ -33,9 +33,8 @@ Confirm your email address if Atlassian requests verification.
 
 #### Screenshot 2 (if applicable) — Confirmation screen after email verification, or the inbox showing the Atlassian verification email subject
 
-Add your screenshot here.
+<img width="1467" height="742" alt="image" src="https://github.com/user-attachments/assets/e8f140ed-ec3f-453b-9bc5-00c35838a57b" />
 
----
 
 ### Notes
 
@@ -45,7 +44,7 @@ If you signed up with Google and no separate email verification was required, in
 
 Add any additional notes here.
 
----
+Google sign-in made the registration process simple and convenient. Since no separate email verification was required, Screenshot 2 is not applicable.
 
 # Task 3 — Set Up Your Professional Jira Profile
 
