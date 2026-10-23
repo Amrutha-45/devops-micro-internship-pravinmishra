@@ -56,9 +56,8 @@ Update your Jira profile with your full name, a job title or role (e.g. "Aspirin
 
 #### Screenshot 3 — Updated profile page showing your full name, role/title, and bio
 
-Add your screenshot here.
+<img width="1912" height="908" alt="image" src="https://github.com/user-attachments/assets/ada33fb3-c05f-455a-a52e-fcc0277f5358" />
 
----
 
 # Task 4 — Explore the Jira Dashboard and Projects
 
@@ -70,9 +69,8 @@ Locate the project list and open a project's Board or Backlog, and view Project 
 
 #### Screenshot 4 — "View all projects" page showing at least one project
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bdb25735-6626-419e-a4da-e5d25fb42fcc" />
 
----
 
 #### Screenshot 5 — Opened project showing either the Board or Backlog screen
 
